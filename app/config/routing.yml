@@ -1,1 +1,5 @@
+your_fate_your_fate:
+    resource: "@YourFateYourFateBundle/Resources/config/routing.yml"
+    prefix:   /
+
 

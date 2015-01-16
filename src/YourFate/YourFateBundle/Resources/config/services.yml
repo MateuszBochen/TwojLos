@@ -1,0 +1,7 @@
+parameters:
+#    your_fate_your_fate.example.class: YourFate\YourFateBundle\Example
+
+services:
+#    your_fate_your_fate.example:
+#        class: %your_fate_your_fate.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
