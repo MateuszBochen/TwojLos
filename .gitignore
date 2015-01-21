@@ -8,6 +8,7 @@
 /build/
 /vendor/
 /bin/
+/src/*.php~
 /composer.phar
 /composer.lock
 /README.md
